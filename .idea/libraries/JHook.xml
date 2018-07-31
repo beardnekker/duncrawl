@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JHook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JHook.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
